@@ -222,5 +222,3 @@ def f_pre(min_x = 1, min_y = 1, max_x = 99, max_y = 99, x = None, y = None):
 		print('Enter acceptible value')
 		# restart process
 		f_pre(x=x, y=y)
-
-f_pre(1,1,10,10)
